@@ -1,7 +1,7 @@
 # Instagram UI Clone (Educational Use Only)
 This project replicates Instagram’s login UI purely for learning and ethical cybersecurity education.
 
-## 🚀 Features
+## Features
 - Instagram-style login form UI
 - PHP backend (for demonstration only)
 - Ngrok used for public URL testing
@@ -9,10 +9,10 @@ This project replicates Instagram’s login UI purely for learning and ethical c
 ## ⚠ Disclaimer
 This project is for *educational purposes only. Do **not* use it for malicious activity.
 
-## 💻 Tech Stack
+## Tech Stack
 - HTML / CSS
 - PHP
 - Ngrok
 
-## 👨‍💻 Author
+## Author
 Sultan Qaiser
